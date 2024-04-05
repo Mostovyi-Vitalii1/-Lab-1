@@ -13,7 +13,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -28,6 +28,10 @@
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Class1.cs",
@@ -35,7 +39,7 @@
               "RelativeDocumentMoniker": "..\\ClassLibrary\\Class1.cs",
               "ToolTip": "E:\\\u043F\u0440\u043E\u0433\u0438\\repository\\Portfolio\\-Lab-1\\ClassLibrary\\Class1.cs",
               "RelativeToolTip": "..\\ClassLibrary\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T08:08:14.172Z",
               "EditorCaption": ""
